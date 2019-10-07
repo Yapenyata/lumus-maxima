@@ -1,2 +1,2 @@
 # lumus-maxima
-Python for QA
+Repository for Python QA's trainings 
